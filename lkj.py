@@ -1,5 +1,5 @@
 decimalNum = 255
-baseNum = 16
+baseNum = 2
 quotient = 1
 answer = ""
 remainder = 0
